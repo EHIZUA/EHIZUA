@@ -2,4 +2,4 @@
 - 👀 I’m a python and javascript developer working majorly with the django framework
 - 🌱 I’m currently improving my knowledge of React
 - 💞️ I’m looking to collaborate on any python and javascript based projects
-- 📫 You can reach on my mail - isesylvester@gmail.com
+- 📫 You can reach me on my mail - isesylvester@gmail.com
